@@ -3395,7 +3395,7 @@ input, select, textarea {
 					line-height: inherit;
 				}
 
-					#footer > .inner .copyright li:first-child {
+					footer > .inner .copyright li:first-child {
 						margin-top: 0;
 					}
 
@@ -3417,3 +3417,11 @@ input, select, textarea {
 			}
 
 		}
+
+#importante{
+color:#F40B0B;
+margin:2px;
+}
+
+button{
+margin:2px;}
